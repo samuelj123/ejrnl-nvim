@@ -903,10 +903,10 @@ hi def link markdownInlineDelimiter         Delimiter
 hi def link markdownListDelimiter           Delimiter
 
 hi def link markdownHeaderId                Delimiter
-hi def link markdownHeadingDelimiter        Delimiter
-hi def link markdownHeadingUnderline        Delimiter
-hi def link markdownHeader                  Title
-hi def link markdownH1                      Title
+hi def link markdownHeadingDelimiter        Function
+hi def link markdownHeadingUnderline        Function
+hi def link markdownHeader                  Function
+hi def link markdownH1                      Function
 hi def link markdownH2                      Title
 hi def link markdownH3                      Title
 hi def link markdownH4                      Title
